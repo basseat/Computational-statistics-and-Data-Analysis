@@ -1,43 +1,46 @@
 # Computational-statistics-and-Data-Analysis
 Assignments from the Computational Statistics &amp; Data Analysis course — M.Sc. Physics, Heidelberg University
 
-# Intro to Computational Physics
+# Computational Statistics & Data Analysis
 **M.Sc. Physics — Heidelberg University | Summer Semester 2025**
 
-This repository contains assignments and projects from the *Introduction to Computational Physics* course in the M.Sc. Physics programme at Heidelberg University. The work focuses on numerical methods for solving physical problems — from classical mechanics to differential equations — implemented in Python.
+This repository contains assignments and projects completed as part of the *Computational Statistics and Data Analysis* course in the M.Sc. Physics programme at Heidelberg University. The work covers statistical modelling, data analysis pipelines, and numerical methods implemented primarily in Python.
 
 ---
 
 ## Topics Covered
 
-- Numerical integration and differentiation
-- Solving ordinary differential equations (ODEs)
-- Finite difference methods
-- Root-finding and optimisation algorithms
-- Simulation of physical systems (e.g. oscillators, projectile motion, chaos)
-- Linear algebra methods in physics
+- Probability distributions and statistical inference
+- Parameter estimation and hypothesis testing
+- Regression analysis (linear and non-linear)
+- Monte Carlo methods and random sampling
+- Data visualisation and exploratory data analysis
+- Error analysis and uncertainty quantification
 
 ---
 
 ## Repository Structure
 
 ```
-computational-physics/
+computational-statistics/
 │
 ├── assignment-01/
 │   ├── notebook.ipynb
+│   ├── data/
 │   └── README.md
 │
 ├── assignment-02/
 │   ├── notebook.ipynb
+│   ├── data/
 │   └── README.md
 │
 └── ...
 ```
 
 Each assignment folder contains:
-- A Jupyter notebook with implementation, plots, and physical interpretation
-- A short README summarising the problem and the numerical approach taken
+- A Jupyter notebook with full implementation and commentary
+- Any datasets used (where redistribution is permitted)
+- A short README describing the problem and approach
 
 ---
 
@@ -46,9 +49,10 @@ Each assignment folder contains:
 | Tool | Purpose |
 |---|---|
 | Python 3.x | Core language |
-| NumPy | Array operations and linear algebra |
-| SciPy | ODE solvers, integration, optimisation |
-| Matplotlib | Plotting and visualisation |
+| NumPy | Numerical computation |
+| SciPy | Statistical functions and distributions |
+| Pandas | Data manipulation and analysis |
+| Matplotlib / Seaborn | Visualisation |
 | Jupyter Notebook | Interactive development |
 
 ---
@@ -57,13 +61,13 @@ Each assignment folder contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/computational-physics.git
-   cd computational-physics
+   git clone https://github.com/your-username/computational-statistics.git
+   cd computational-statistics
    ```
 
 2. Install dependencies:
    ```bash
-   pip install numpy scipy matplotlib jupyter
+   pip install numpy scipy pandas matplotlib seaborn jupyter
    ```
 
 3. Launch Jupyter:
@@ -76,7 +80,8 @@ Each assignment folder contains:
 ## About
 
 **Abdulbasit Ayoade**
-M.Sc. Physics student at Heidelberg University. My undergraduate thesis (University of Lagos, 2021) involved analysis of total electron content data at equatorial ionospheric stations. I have a background in data analytics and am particularly interested in the application of numerical and statistical methods to real-world problems.
+M.Sc. Physics student at Heidelberg University with a background in data analytics and fintech risk analysis. Prior to this programme, I worked as a Data Analyst and Internal Controls Analyst across multiple financial technology firms in Nigeria.
 
-- GitHub: (https://github.com/basseat)
-- LinkedIn: (https://www.linkedin.com/in/abdulbasitayoade/)
+- GitHub: [github.com/basseat](https://github.com/basseat)
+- LinkedIn: [linkedin.com/in/abdulbasitayoade](https://www.linkedin.com/in/abdulbasitayoade/)
+
