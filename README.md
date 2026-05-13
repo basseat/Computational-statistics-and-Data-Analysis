@@ -78,5 +78,5 @@ Each assignment folder contains:
 **Abdulbasit Ayoade**
 M.Sc. Physics student at Heidelberg University. My undergraduate thesis (University of Lagos, 2021) involved analysis of total electron content data at equatorial ionospheric stations. I have a background in data analytics and am particularly interested in the application of numerical and statistical methods to real-world problems.
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: (https://github.com/basseat)
+- LinkedIn: (https://www.linkedin.com/in/abdulbasitayoade/)
